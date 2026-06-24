@@ -1,3 +1,4 @@
+package MATKUL;
 public class MatkulPraktikum implements MataKuliah, Praktikum {
     private String namaMatkul;
     private int sks;

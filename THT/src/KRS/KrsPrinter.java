@@ -1,5 +1,6 @@
+package KRS;
+import MATKUL.MataKuliah;
 import java.util.List;
-
 public class KrsPrinter {
 
         public void printPDF(String namaMahasiswa, List<MataKuliah> daftarMataKuliah) {

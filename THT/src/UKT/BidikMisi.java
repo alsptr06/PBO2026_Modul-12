@@ -1,3 +1,4 @@
+package UKT;
 public class BidikMisi implements UktCalculateStrategy {
     private static final double UKT_BIDIK_MISI = 0;
 

@@ -1,3 +1,4 @@
+package UKT;
 public class Karyawan implements UktCalculateStrategy{
     
     private static final double UKT_KARYAWAN = 80000000;

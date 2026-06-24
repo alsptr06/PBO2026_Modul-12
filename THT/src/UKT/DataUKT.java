@@ -1,3 +1,4 @@
+package UKT;
 public class DataUKT {
     private String jurusan;
     private String tingkat;
